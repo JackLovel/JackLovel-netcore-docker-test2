@@ -1,0 +1,5 @@
+services:
+  web2:
+    build: .
+    ports:
+      - "100:80"
