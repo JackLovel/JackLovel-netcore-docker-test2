@@ -1,0 +1,15 @@
+services:
+  db:
+    image: mysql:8.0
+    restart: always
+    environment:
+      - MYSQL_ROOT_PASSWORD: 123123123
+    ports:
+      - "3306:3306"
+    volumes:
+      - database:/tmp/database
+    command: mysqld --init-file="db.sql"
+    networks:
+      default:
+        external:
+          name: netcore-net
