@@ -13,6 +13,7 @@ var app = builder.Build();
 //builder.Services.AddScoped<ICharacterService, CharacterService>();
 //builder.Services.AddScoped<ITodoRepo, TodoRepo>();
 
+
 if (!app.Environment.IsDevelopment())
 {
     app.UseExceptionHandler("/Home/Error");
