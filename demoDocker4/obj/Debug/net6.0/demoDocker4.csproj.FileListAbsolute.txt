@@ -244,3 +244,7 @@ D:\vsPro\demoDocker4\demoDocker4\bin\Debug\net6.0\runtimes\win\lib\net6.0\System
 D:\vsPro\demoDocker4\demoDocker4\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 D:\vsPro\demoDocker4\demoDocker4\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 D:\vsPro\demoDocker4\demoDocker4\obj\Debug\net6.0\demoDocker4.csproj.CopyComplete
+D:\vsPro\demoDocker4\demoDocker4\bin\Debug\net6.0\AutoMapper.dll
+D:\vsPro\demoDocker4\demoDocker4\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\vsPro\demoDocker4\demoDocker4\bin\Debug\net6.0\Dapper.dll
+D:\vsPro\demoDocker4\demoDocker4\bin\Debug\net6.0\MySqlConnector.dll

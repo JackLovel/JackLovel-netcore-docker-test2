@@ -14,7 +14,7 @@ namespace DataAccessLayer
     {
         protected override void OnConfiguring(DbContextOptionsBuilder builder)
         {
-            builder.UseMySql();   
+            //builder.UseMySql();   
         }
     }
 }
